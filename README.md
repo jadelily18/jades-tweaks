@@ -6,16 +6,8 @@ This pack is my personal modified version of [Vanilla Tweaks](https://vanillatwe
 
 ### Gallery
 
-<details>
-<summary>Customized Hotbar</summary>
 ![hotbar image](https://raw.githubusercontent.com/jadelily18/jades-tweaks/master/images/hotbar%20screenshot.png)
-</details>
-<details>
-<summary>Customized Options Menu</summary>
 ![options image](https://raw.githubusercontent.com/jadelily18/jades-tweaks/master/images/options%20gui%20screenshot.png)
-</details>
-
-
 
 ### Credits
 
