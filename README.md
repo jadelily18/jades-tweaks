@@ -2,7 +2,7 @@
 
 # Jade's Tweaks
 
-This pack is my personal modified version of [Vanilla Tweaks](https://vanillatweaks.net/) that I use in Minecraft: Java Edition.
+This pack is my personal modified (albeit not a lot yet) version of [Vanilla Tweaks](https://vanillatweaks.net/) that I use in Minecraft: Java Edition.
 
 ### Gallery
 
