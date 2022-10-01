@@ -3,7 +3,7 @@
 # Jade's Tweaks
 [![GitHub](https://img.shields.io/github/license/jadelily18/jades-tweaks?style=flat-square)](https://github.com/jadelily18/jades-tweaks/blob/master/LICENSE)
 
-This pack is my personal modified ***(albeit not a lot yet)*** version of [Vanilla Tweaks](https://vanillatweaks.net/) that I use in Minecraft: Java Edition.
+This pack is my personal modified version of [Vanilla Tweaks](https://vanillatweaks.net/) that I use in Minecraft: Java Edition. It's intended to be used with [my modpack](https://modrinth.com/modpack/jpp) or something like [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
 ### Gallery
 
