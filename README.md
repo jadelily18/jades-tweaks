@@ -11,6 +11,7 @@ This pack is my personal modified version of [Vanilla Tweaks](https://vanillatwe
 ![options image](https://raw.githubusercontent.com/jadelily18/jades-tweaks/master/images/options%20gui%20screenshot.png)
 
 ### License
+
 Licensed under [GNU General Public License v3.0](https://github.com/jadelily18/jades-tweaks/blob/master/LICENSE).
 If modifying or redistributing, you must also follow the [Vanilla Tweaks Terms and Conditions](https://vanillatweaks.net/terms/).
 
